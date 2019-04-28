@@ -26,7 +26,7 @@
 	}
 
 	function getConnexion(){
-		$servername = "127.0.0.1:3307";
+		$servername = "127.0.0.1";
 		$username = "root";
 		$data_base ="frenchtrips";
 		$password = "root";
