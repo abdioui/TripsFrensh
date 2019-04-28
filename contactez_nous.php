@@ -46,7 +46,7 @@
 								<li class="main_nav_item"><a href="decouvrez_nous.php">decouvrez nous</a></li>
 								<li class="main_nav_item"><a href="promo.php">Promo</a></li>
 								<li class="main_nav_item active"><a href="contactez_nous.php">Contactez nous</a></li>
-								<li class="main_nav_item" style="color: white;">Salut <?php echo"$nom"; ?> </li>
+								<li class="main_nav_item" style="color: white;">Bonjour <?php echo"$nom"; ?>! </li>
 								<li class="main_nav_item"><a href="Deconnection.php">Deco</a></li>
 							</ul>
 						</nav>
@@ -138,12 +138,12 @@
 								<ul>
 									<li>Adresse: Route de Mende, 34090 Montpellier</li>
 									<li>Tél: +33 661420483  </li>
-									<li>Email: french.trips@gmail.com</li>
+									<li>Email: trips.french@gmail.com</li>
 								</ul>
 							</div>
 							<div class="contact_info_social">
 								<ul>
-									<li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+									<li><a href="trips.french@gmail.com"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
 									<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
 									<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 									<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>

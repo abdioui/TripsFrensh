@@ -118,12 +118,12 @@
 					
 					<div class="find_item">
 						<div>Destination:</div>
-						<input type="text" id="destination" name="destination" class="destination find_input" required="required" placeholder="Destination du voyage">
+						<input type="text" id="destination" name="destination" class="destination find_input" required placeholder="Destination du voyage">
 					</div>
 					
 					<div class="find_item">
 						<div>Durée:</div>
-						<input type="text" id="duree" name="duree" class="duree find_input" required="required" placeholder="Durée du voyage">
+						<input type="text" id="duree" name="duree" class="duree find_input" required placeholder="Durée du voyage">
 					</div>
 					
 					<div class="find_item" style="color: white;">
@@ -176,13 +176,19 @@
 				<div class="col-lg-6 about_col order-lg-1 order-2">
 					<div class="about_content">
 						<p>
-						L'agence de voyages remplit le rôle de conseil en s'assurant ou en avertissant des formalités nécessaires à l'entrée dans un pays. Elle ferme également les destinations à la vente selon les recommandations du Ministère des Affaires Étrangères et Européennes (pour la France) et gère avec ses fournisseurs les problèmes pouvant être rencontrés. Elle peut être agence distributrice, agence réceptive ou voyagiste.						
+						Vous souhaitez organiser un VOYAGE avec vos amis, votre famille, votre amoureux, ... ? Pas de stress, nous sommes là !<br>
+							Le temps d'un week-end, d'une ou plusieurs semaines ?... A vous de choisir !<br>
+								Nos conseillers voyages vous offrent un service personnalisé en élaborant avec vous un voyage sur-mesure, répondant à vos attentes et à votre budget : voyage culturel, nature, découverte, ludique, insolite, randonnée ou bien-être. Il y en a pour tous et pour tous les goûts !<br>
+							Dans une capitale, à la mer, à la montagne, en ville... (en France) Nous nous occupons de votre projet, vous n'avez plus qu'à faire vos valises !<br>
+						Profitez de tarifs avantageux pour votre séjour, circuit découverte. Priorité donc au confort des hôtels, à la qualité des restaurants et des activités en profitant d’autres belles surprises.<br>
+							Week-end sportif à Montpellier, escapade à Paris, mini-séjour à Nice... Tout est possible !
+						
 						</p>
 					</div>
 				</div>
 				<div class="col-lg-6 about_col order-lg-2 order-1">
 					<div class="about_image">
-						<img src="images/about.jpg" alt="https://unsplash.com/@sanfrancisco">
+						<img src="images/helloFrance.jpeg" alt="https://unsplash.com/@sanfrancisco">
 					</div>
 				</div>
 			</div>

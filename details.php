@@ -48,7 +48,7 @@
 								<li class="main_nav_item"><a href="decouvrez_nous.php">decouvrez nous</a></li>
 								<li class="main_nav_item"><a href="promo.php">Promo</a></li>
 								<li class="main_nav_item"><a href="contactez_nous.php">Contactez nous</a></li>
-								<li class="main_nav_item" style="color: white;">Salut <?php echo"$nom"; ?> </li>
+								<li class="main_nav_item" style="color: white;">Bonjour <?php echo"$nom"; ?>! </li>
 								<li class="main_nav_item"><a href="Deconnection.php">Deco</a></li>
 							</ul>
 						</nav>
